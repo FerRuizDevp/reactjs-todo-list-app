@@ -1,2 +1,2 @@
 # reactjs-todo-list-app
- CRUD TODO APP W. REACTJS
+CRUD TODO APP WITH. REACT JS
