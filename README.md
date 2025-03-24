@@ -2,7 +2,7 @@
 {
   "title": "TO-DO List App",
   "description": "A simple to-do list application built with React.",
-  "video": "https://youtu.be/_jLfD1EYpGw",
+  "video": "_jLfD1EYpGw",
   "link": "https://reactjs-todo-list-app-ferruiz.netlify.app/"
 }
 -->
