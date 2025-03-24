@@ -6,9 +6,6 @@
   "link": "https://reactjs-todo-list-app-ferruiz.netlify.app/"
 }
 -->
-# reactjs-todo-list-app
-CRUD TODO APP WITH. REACT JS
-
 # TO-DO List App
 
 ## Description
