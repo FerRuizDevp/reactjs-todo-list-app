@@ -3,7 +3,10 @@
   "title": "TO-DO List App",
   "description": "A simple to-do list application built with React.",
   "video": "https://github.com/FerRuizDevp/reactjs-todo-list-app/releases/download/v1.0-video/project-1.mp4",
-  "link": "https://reactjs-todo-list-app-ferruiz.netlify.app/"
+  "imagePreview": " ",
+  "githubLink": "https://github.com/FerRuizDevp/reactjs-todo-list-app",
+  "netlifyLink": "https://reactjs-todo-list-app-ferruiz.netlify.app/",
+  "tags": ["react", "react-app", "vite-project", "dynamic-design"]
 }
 -->
 # 📝 TO-DO List App
@@ -14,5 +17,4 @@ This is a simple to-do list application built with React.
 ## Video 🎥
 [![Project Video](https://img.youtube.com/vi/_jLfD1EYpGw/0.jpg)](https://www.youtube.com/embed/_jLfD1EYpGw?si=Jw0u_85Sx_V_ZV6P)
 
-## Live Demo 🌐
-[View Live](https://reactjs-todo-list-app-ferruiz.netlify.app/)
+## Live Demo 🌐 [View Live](https://reactjs-todo-list-app-ferruiz.netlify.app/)
