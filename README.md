@@ -6,7 +6,7 @@
   "imagePreview": " ",
   "githubLink": "https://github.com/FerRuizDevp/reactjs-todo-list-app",
   "netlifyLink": "https://reactjs-todo-list-app-ferruiz.netlify.app/",
-  "tags": ["react", "react-app", "vite-project", "dynamic-design"]
+  "tags": ["HTML", "CSS", "JavaScript", "React", "NodeJS", "Vite-project", "react-app", "dynamic-design"]
 }
 -->
 # 📝 TO-DO List App
