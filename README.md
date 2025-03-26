@@ -3,7 +3,6 @@
   "title": "TO-DO List App",
   "description": "A simple to-do list application built with React.",
   "video": "https://github.com/FerRuizDevp/reactjs-todo-list-app/releases/download/v1.0-video/project-1.mp4",
-  "imagePreview": " ",
   "githubLink": "https://github.com/FerRuizDevp/reactjs-todo-list-app",
   "netlifyLink": "https://reactjs-todo-list-app-ferruiz.netlify.app/",
   "tags": ["HTML", "CSS", "JavaScript", "React", "NodeJS", "Vite-project", "react-app", "dynamic-design"]
