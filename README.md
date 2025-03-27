@@ -5,7 +5,7 @@
   "video": "https://github.com/FerRuizDevp/reactjs-todo-list-app/releases/download/v1.0-video/project-1.mp4",
   "githubLink": "https://github.com/FerRuizDevp/reactjs-todo-list-app",
   "netlifyLink": "https://reactjs-todo-list-app-ferruiz.netlify.app/",
-  "tags": ["HTML", "CSS", "JavaScript", "React", "Vite-project", "react-app", "dynamic-design"]
+  "tags": ["all-projects", "HTML", "CSS", "JavaScript", "React", "Vite-project", "react-app", "dynamic-design"]
 }
 -->
 # 📝 TO-DO List App
